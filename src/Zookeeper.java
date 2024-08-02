@@ -6,6 +6,6 @@ public class Zookeeper extends Employee{
 
     @Override
     public void work() {
-        System.out.println(getName() + "is taking care of animals");
+        System.out.println(getName() + " is taking care of animals");
     }
 }

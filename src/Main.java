@@ -27,7 +27,9 @@ public class Main {
         zookeeper.work();
         vet.work();
 
-        //hayvanlarin ses cika
+        //hayvanlarin ses cikarmasini gosterelim
+        lion.makeSound();
+        eagle.makeSound();
 
 
     }
